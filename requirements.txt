@@ -1,0 +1,9 @@
+influxdb
+apscheduler
+pyserial
+numpy
+uModbus
+paho-mqtt
+OctopusAgile
+prettytable
+tabulate
