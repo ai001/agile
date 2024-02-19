@@ -1,0 +1,1 @@
+This project is to find economy hours from Octopus Agile tariff available to the UK Octopus Energy electricity consumer (or anyone interested in it). If this code is run on a machine it will run at a given specified time.
